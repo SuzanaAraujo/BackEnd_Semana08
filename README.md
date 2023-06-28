@@ -1,1 +1,1 @@
-# BackEnd_Semana08
+Mini Projeto criado no Eclipse utilizando Servlets e Maven
